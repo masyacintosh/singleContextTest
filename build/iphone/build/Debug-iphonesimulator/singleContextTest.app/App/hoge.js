@@ -1,0 +1,1 @@
+/Users/masya/Documents/Titanium Studio Workspace/singleContextTest/Resources/App/hoge.js
